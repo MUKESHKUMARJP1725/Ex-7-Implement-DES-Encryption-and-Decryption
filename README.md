@@ -52,7 +52,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-30 103345](https://github.com/user-attachments/assets/171eb9aa-af17-4b4a-b17c-baaf79cf4fc3)
+![Screenshot 2024-09-30 104859](https://github.com/user-attachments/assets/86471031-7f5d-4d66-b433-0aac9dd9a741)
 
 ## RESULT:
 Thus, AES encryption and decryption were implemented correctly using the provided key and initialization vector (IV).
