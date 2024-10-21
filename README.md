@@ -6,7 +6,9 @@ To implement a program to encrypt plaintext and decrypt ciphertext using the DES
 ## DESIGN STEPS:
 
 Step 1: Design the DES algorithm.
+
 Step 2: Implement the algorithm using C++.
+
 Step 3: Test the algorithm with different key values and input text.
 
 ## ALGORITHM DESCRIPTION:
