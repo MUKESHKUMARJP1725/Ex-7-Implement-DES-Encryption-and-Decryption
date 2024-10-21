@@ -1,4 +1,4 @@
-# EX-7 - DES ENCRYPTION AND DECRYPTION
+# Ex-7 Implement DES Encryption and Decryption
 ## AIM:
 
 To implement a program to encrypt plaintext and decrypt ciphertext using the DES (Data Encryption Standard) encryption technique.
