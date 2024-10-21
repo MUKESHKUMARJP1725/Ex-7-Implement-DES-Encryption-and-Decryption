@@ -1,4 +1,4 @@
-# Ex-7 Implement DES Encryption and Decryption
+# Ex- 8 Implement the AES Encryption and decryption
 
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
