@@ -241,7 +241,8 @@ void aesDecrypt(uint8_t input[AES_BLOCK_SIZE], uint8_t key[AES_BLOCK_SIZE], uint
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/8c99b351-33ab-45e3-9484-2ee4bd02c1bf)
-
+<br>
+<br>
 ## RESULT:
 
 The DES algorithm was successfully implemented and tested with different key values and inputs. The program correctly encrypts and decrypts the given input using the DES technique.
